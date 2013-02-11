@@ -1,0 +1,171 @@
+body{
+  padding-bottom: 50px;
+  font-size: 14px;
+  line-height: 1.2em;
+  color: #000;
+  font-family: "ProximaNova", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1000px;
+  margin: 0 auto 20px;
+}
+
+nav {
+  padding: 20px 30px 10px;
+  border-bottom: 1px solid #d4cdc1;
+}
+
+.logo {
+  background: url("http://basecamp.com/assets/images/logo2x.png") no-repeat;
+  background-size: 194px 55px;
+  width: 194px;
+  height: 55px;
+}
+
+ul {
+  float: right;
+  list-style-type: none;
+  margin: 35px -30px 0 0;
+  padding: 0;
+} 
+
+li {
+  float: left;
+  margin-right: 30px;
+  font-size: 14px;
+  text-align: center;
+  line-height: 1.1em;
+  margin: -10px 10px 10px 10px;
+}
+
+.signIn {
+display: block;
+color: #fff;
+background-color: #06C;
+padding: 8px 14px 9px 14px;
+margin: -12px 10px 10px 10px;
+}
+
+/* Above is all Navigation and wrapper content */
+
+/* Heading and main Body contetn */
+
+header {
+  padding: 40px 0 60px;
+  background: none;
+  position: relative;
+}
+
+h1 {
+  display: block;
+}
+
+.original {
+  font-size: 46px;
+  letter-spacing: -1px;
+  line-height: 50px;
+  text-align: center;
+  margin: 0;
+}
+
+.drawing {
+  background: url("http://basecamp.com/assets/images/home-sign-up/signup-drawing2.png") no-repeat;
+  background-size: 964px 501px;
+  width: 964px;
+  height: 501px;
+}
+
+aside {
+  float: left;
+  width: 170px;
+  position: absolute;
+  margin-left: 60px;
+  margin-top: 50px;
+}
+
+.victoria {
+  font-size: 16px;
+  line-height: 1.3em;
+  margin-top: 8px;
+}
+
+figure.victoria {
+  background: url("http://basecamp.com/assets/images/home-sign-up/victoria.png") no-repeat;
+  background-size: 375px 465px;
+  float: left;
+  margin: 30px 0 0 175px;
+  width: 393px;
+  height: 490px;
+}
+
+section.signup {
+  margin: 0 auto;
+  width: 360px;
+  padding: 30px;
+  background-color: white;
+  border: 2px solid #d4cdc1;
+  border-radius: 9px;
+  position: relative;
+  text-align: center;
+}
+
+section.signup {
+  float: left;
+  border: 0;
+  padding: 65px 0 0;
+  margin-left: 10px;
+  background: transparent;
+}
+
+.realSignups {
+  font-size: 28px;
+  color: #c00;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+section.signup h2 {
+  font-size: 28px;
+  color: #c00;
+  margin: 0 0 20px 0;
+  padding: 0;
+}
+
+section.signup h3 {
+  color: black;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.3em;
+  margin: 0 0 15px 0;
+}
+
+
+input {
+  border: 5px solid black;
+  padding: 15px 20px 15px 100px;
+  margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
